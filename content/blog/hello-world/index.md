@@ -8,7 +8,7 @@ Lambda School Representing WEB23 - Ravenclaw
 I'm sure I'll write a lot more interesting things in the future.
 
 Oh, and here's a great quote from this Wikipedia on
-[Ravemclaw](https://harrypotter.fandom.com/wiki/Ravenclaw).
+[Ravemclaw](http://harrypotter.fandom.com/wiki/Ravenclaw).
 
 > Ravenclaw is one of the four Houses of Hogwarts School of Witchcraft
 > Its founder was the medieval witch Rowena Ravenclaw.
