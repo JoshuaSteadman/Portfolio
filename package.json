@@ -27,7 +27,7 @@
     "gatsby-transformer-sharp": "^2.2.5",
     "imagemin-pngquant": "^5.0.1",
     "pngquant-bin": "^3.1.1",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.25.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
